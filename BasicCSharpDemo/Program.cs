@@ -1,0 +1,14 @@
+﻿//int age = 25; 
+//double price = 10.99; 
+//string name = "Alice"; 
+//char grade = 'A'; 
+//bool isStudent = true;
+////Console.Write(age);
+////Console.Write(price);
+////Console.Write(name);
+////Console.Write(grade);
+//Console.ReadKey();
+const double pi = 3.1416;
+//pi = 4.1416;
+Console.Write(pi);
+Console.ReadKey();
