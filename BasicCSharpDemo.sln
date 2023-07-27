@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# type casting", "C# type 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# user input", "C# user input\C# user input.csproj", "{F5087B9A-03DA-4D6B-8CD7-2211A652F632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# arithmetic operators", "C# arithmetic operators\C# arithmetic operators.csproj", "{0AAB5C8A-46FB-4695-A1B4-AC8E3FA8A770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# arithmetic operators", "C# arithmetic operators\C# arithmetic operators.csproj", "{0AAB5C8A-46FB-4695-A1B4-AC8E3FA8A770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Math class", "C# Math class\C# Math class.csproj", "{F883122D-0DE4-482A-A659-BC2DE9A67B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# Math class", "C# Math class\C# Math class.csproj", "{F883122D-0DE4-482A-A659-BC2DE9A67B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Testing C#", "Unit Testing C#\Unit Testing C#.csproj", "{0A6F2F8F-A5B3-452A-89BE-171467C28E59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F883122D-0DE4-482A-A659-BC2DE9A67B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F883122D-0DE4-482A-A659-BC2DE9A67B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F883122D-0DE4-482A-A659-BC2DE9A67B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6F2F8F-A5B3-452A-89BE-171467C28E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6F2F8F-A5B3-452A-89BE-171467C28E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6F2F8F-A5B3-452A-89BE-171467C28E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6F2F8F-A5B3-452A-89BE-171467C28E59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
