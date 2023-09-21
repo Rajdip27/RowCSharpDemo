@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# Math class", "C# Math cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit Testing C#", "Unit Testing C#\Unit Testing C#.csproj", "{0A6F2F8F-A5B3-452A-89BE-171467C28E59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListData", "ListData\ListData.csproj", "{3D042002-7486-4A6E-ABD5-7B40A65E8F0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListData", "ListData\ListData.csproj", "{3D042002-7486-4A6E-ABD5-7B40A65E8F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovertStringuseTestinfo", "CovertStringuseTestinfo\CovertStringuseTestinfo.csproj", "{A993BEC8-EA91-4BB4-A696-9A7BA3A7B854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3D042002-7486-4A6E-ABD5-7B40A65E8F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D042002-7486-4A6E-ABD5-7B40A65E8F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D042002-7486-4A6E-ABD5-7B40A65E8F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A993BEC8-EA91-4BB4-A696-9A7BA3A7B854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A993BEC8-EA91-4BB4-A696-9A7BA3A7B854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A993BEC8-EA91-4BB4-A696-9A7BA3A7B854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A993BEC8-EA91-4BB4-A696-9A7BA3A7B854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
