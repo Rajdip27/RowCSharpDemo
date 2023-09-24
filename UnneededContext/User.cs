@@ -4,12 +4,9 @@ public class User
 {
     public User()
     {
-        new User
-        {
-            Id = 1,
-            Name = "Raja",
-            Email = "Raja@gmail.com"
-        };
+        Id = 1;
+        Name = "Raja";
+        Email = "Raja@gmail.com";
     }
     public int Id { get; set; }
     public string Name { get; set; } = string.Empty;
