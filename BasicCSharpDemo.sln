@@ -45,6 +45,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsSpanOverSubstring", "AsSp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.Project", "HR.Project\HR.Project.csproj", "{2784A115-1E20-4FF0-B2A3-BB6852F00606}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeacheLoop", "ForeacheLoop\ForeacheLoop.csproj", "{9E52B581-DE5E-415E-89C0-04B7A792619A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWODIMONSONARRAY", "TWODIMONSONARRAY\TWODIMONSONARRAY.csproj", "{6CE333B8-4AC3-429B-AE1A-68C0712E8040}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{2784A115-1E20-4FF0-B2A3-BB6852F00606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2784A115-1E20-4FF0-B2A3-BB6852F00606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2784A115-1E20-4FF0-B2A3-BB6852F00606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E52B581-DE5E-415E-89C0-04B7A792619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E52B581-DE5E-415E-89C0-04B7A792619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E52B581-DE5E-415E-89C0-04B7A792619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E52B581-DE5E-415E-89C0-04B7A792619A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE333B8-4AC3-429B-AE1A-68C0712E8040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE333B8-4AC3-429B-AE1A-68C0712E8040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE333B8-4AC3-429B-AE1A-68C0712E8040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE333B8-4AC3-429B-AE1A-68C0712E8040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
