@@ -14,9 +14,13 @@
 //{
 //    Console.WriteLine(i);
 //}
+//int[] myNumbers = { 5, 1, 8, 9 };
+//Array.Sort(myNumbers);
+//foreach (int i in myNumbers)
+//{
+//    Console.WriteLine(i);
+//}
 int[] myNumbers = { 5, 1, 8, 9 };
-Array.Sort(myNumbers);
-foreach (int i in myNumbers)
-{
-    Console.WriteLine(i);
-}
+Console.WriteLine(myNumbers.Max());  
+Console.WriteLine(myNumbers.Min());  
+Console.WriteLine(myNumbers.Sum());  
