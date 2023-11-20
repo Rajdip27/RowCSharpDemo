@@ -8,9 +8,15 @@
 //    }
 //}
 
-int[,] numbers = { { 1, 4, 2 }, { 3, 6, 8 } };
+//int[,] numbers = { { 1, 4, 2 }, { 3, 6, 8 } };
 
-foreach (int i in numbers)
+//foreach (int i in numbers)
+//{
+//    Console.WriteLine(i);
+//}
+int[] myNumbers = { 5, 1, 8, 9 };
+Array.Sort(myNumbers);
+foreach (int i in myNumbers)
 {
     Console.WriteLine(i);
 }
