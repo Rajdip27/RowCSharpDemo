@@ -46,3 +46,11 @@
 //}
 
 //Console.ReadKey();
+
+
+string myString = "Hello, World!";
+bool startsWithHello = myString.StartsWith("Hello");
+bool endsWithWorld = myString.EndsWith("World!");
+Console.WriteLine("Starts with 'Hello': " + startsWithHello);
+Console.WriteLine("Ends with 'World!': " + endsWithWorld);
+
