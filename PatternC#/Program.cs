@@ -110,3 +110,44 @@
 //}
 
 //Console.ReadKey(true);
+
+using System.Threading.Channels;
+
+//1 3 5 7 911
+//131517192123
+//252729313335
+//373941434547
+//495153555759
+
+//int k = 1;
+//for (int i = 1; i <=5; i++)
+//{
+//    for (int j = 0; j <=5; j++)
+//    {
+//        Console.Write("{0,2:D}",k);
+//        k += 2;
+//    }
+
+//    Console.WriteLine();
+//}
+
+//Console.ReadKey();
+
+
+//2 4 6 8
+//10121416
+//18202224
+//26283032
+
+//int c = 2;
+//for (int i = 2; i <= 5; i++)
+//{
+//    for (int j = 2; j <=5; j++)
+//    {
+//        Console.Write("{0,2:D}",c);
+//        c += 2;
+//    }
+
+//    Console.WriteLine();
+//}
+//Console.ReadKey();
