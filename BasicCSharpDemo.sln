@@ -49,9 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#ShortHand IfElse", "C#Sho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#Pattern", "C#Pattern\C#Pattern.csproj", "{090D7B02-A788-4130-8CEE-56DF722D8ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Stringsmethods", "C# Stringsmethods\C# Stringsmethods.csproj", "{71B890AF-4DD7-4A53-9B74-9B92A38C4406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# Stringsmethods", "C# Stringsmethods\C# Stringsmethods.csproj", "{71B890AF-4DD7-4A53-9B74-9B92A38C4406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternC#", "PatternC#\PatternC#.csproj", "{AA600FE4-C801-4447-9FC0-227C3C30FA1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternC#", "PatternC#\PatternC#.csproj", "{AA600FE4-C801-4447-9FC0-227C3C30FA1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OderBYC#", "OderBYC#\OderBYC#.csproj", "{2764FA59-76F6-4BB6-AB8F-931F7E8A1738}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{AA600FE4-C801-4447-9FC0-227C3C30FA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA600FE4-C801-4447-9FC0-227C3C30FA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA600FE4-C801-4447-9FC0-227C3C30FA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2764FA59-76F6-4BB6-AB8F-931F7E8A1738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2764FA59-76F6-4BB6-AB8F-931F7E8A1738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2764FA59-76F6-4BB6-AB8F-931F7E8A1738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2764FA59-76F6-4BB6-AB8F-931F7E8A1738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
