@@ -151,3 +151,21 @@ using System.Threading.Channels;
 //    Console.WriteLine();
 //}
 //Console.ReadKey();
+
+
+
+//1 2 3 4 5
+//2 4 6 810
+//3 6 91215
+//4 8121620
+//510152025
+int a=5;
+for (int i = 1; i <= a; i++)
+{
+    for (int j = 1; j <= a; j++)
+    {
+        Console.Write("{0,2:D}",(j*i));
+    }
+    Console.WriteLine();
+}
+Console.ReadKey();
